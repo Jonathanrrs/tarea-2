@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: rgb(196, 185, 81);
+}
+.botones{
+    padding: 6px;
+    display: inline-block;
+    font-size: 30px;
+    
+}
+.contenedor{
+    width: 40%;
+    margin:30px auto;
+    height: 300px;
+    text-align: center;
+    border-radius:6px;
+    background-color: rgb(130, 211, 235);
+}
+
+h2{
+    font-size: 30px;
+    padding-top: 30px;
+    background-color: rgb(201, 61, 61);
+}
+.numeros{
+    color: red;
+    font-size: 20px;
+}
+button{
+    background-color: rgb(44, 204, 110);
+    font-size: 15px;
+}
+.resultado{
+    font-size: 20px;
+}
