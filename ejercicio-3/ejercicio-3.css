@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(148, 78, 212);
+}
+.contenedor{
+    width: 60%;
+    margin:30px auto;
+    height: 300px;
+    text-align: center;
+    border-radius:6px;
+    background-color: rgb(231, 231, 112);
+    
+}
+h2{
+    padding: 15px;
+    font-size: 30px;
+    background-color: rgb(77, 218, 194);
+}
+.grupo{
+    font-size: 30px;
+    color: purple;
+}
+.area{
+    font-size: 30px;
+    color: rgb(44, 170, 192);
+}
+input{
+    font-size: 20px;
+    color: red;
+    width: 200px;
+}
+button{
+    margin: 20px;
+    font-size: 20px;
+    border-radius: 5px;
+    color: rgb(118, 51, 206);
+    background-color: rgb(97, 183, 223);
+}
